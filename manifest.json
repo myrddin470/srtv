@@ -1,0 +1,17 @@
+{
+  "short_name": "Transportes",
+  "name": "Inspección de Transportes - Líneas Regulares",
+  "icons": [
+    {
+      "src": "icono.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#f8fafc",
+  "theme_color": "#334155",
+  "display": "standalone",
+  "orientation": "portrait"
+}
